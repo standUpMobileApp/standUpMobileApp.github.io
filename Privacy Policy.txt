@@ -1,0 +1,1 @@
+The Stand Up mobile application will require access to your device’s camera for the purposes of augmented reality and screen capturing.  It will also require access to your device's storage for the purposes of saving user screen shots.  The Stand Up application does not store or transmit this information for any other purposes. 
