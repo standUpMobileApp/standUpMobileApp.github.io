@@ -1,4 +1,6 @@
-Device Permissions for the Stand Up mobile application (SUMA)
+Privacy Policy for the Stand Up mobile application (SUMA) 
+
+Device Permissions
 -The SUMA will require access to your device’s camera for the purposes of augmented reality and screen capturing.
 -The SUMA will require access to your device's storage for the purposes of saving user screen shots.
 
