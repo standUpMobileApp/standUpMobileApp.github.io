@@ -5,5 +5,5 @@ Device Permissions
 -The SUMA will require access to your device's storage for the purposes of saving your screen shots.
 
 Data Usage
-The SUMA stores screen shots to your device's storage at your request.
-The SUMA does not store or transmit this information for any other purposes. 
+-The SUMA stores screen shots to your device's storage at your request.
+-The SUMA does not store or transmit this information for any other purposes. 
