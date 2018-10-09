@@ -1,1 +1,7 @@
-The Stand Up mobile application will require access to your device’s camera for the purposes of augmented reality and screen capturing.  It will also require access to your device's storage for the purposes of saving user screen shots.  The Stand Up application does not store or transmit this information for any other purposes. 
+Device Permissions for the Stand Up mobile application (SUMA)
+-The SUMA will require access to your deviceâ€™s camera for the purposes of augmented reality and screen capturing.
+-The SUMA will require access to your device's storage for the purposes of saving user screen shots.
+
+Data Usage
+The SUMA stores screen shots to device storage at the user's request.
+The SUMA does not store or transmit this information for any other purposes. 
